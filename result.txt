@@ -1,0 +1,18 @@
+total 149
+-rwxr-xr-x 1 patel2n1 temp     0 Apr 23 13:28 result.txt
+-rwxr-xr-x 1 patel2n1 temp 23336 Apr 23 13:28 npshell
+-rw-r--r-- 1 patel2n1 temp 16384 Apr 23 13:27 np_project_script_6.txt
+-rw-r--r-- 1 patel2n1 temp     0 Apr 23 13:27 np_prj_script_timing_6.log
+-rw-r--r-- 1 patel2n1 temp 20879 Apr 23 13:27 np_project_script_5.txt
+-rw-r--r-- 1 patel2n1 temp  4682 Apr 23 13:27 np_prj_script_timing_5.log
+-rw-r--r-- 1 patel2n1 temp 17657 Apr 23 13:24 np_project_script_4.txt
+-rw-r--r-- 1 patel2n1 temp  3358 Apr 23 13:24 np_prj_script_timing_4.log
+-rw-r--r-- 1 patel2n1 temp 17128 Apr 23 13:20 np_project_script_2_3.txt
+-rw-r--r-- 1 patel2n1 temp  4065 Apr 23 13:20 np_prj_script_timing_2_3.log
+-rw-r--r-- 1 patel2n1 temp 16463 Apr 23 13:17 np_project_script_1.txt
+-rw-r--r-- 1 patel2n1 temp  3026 Apr 23 13:17 np_prj_script_timing_1.log
+-rw-r--r-- 1 patel2n1 temp   319 Apr 23 12:59 smallsh.h
+-rw-r--r-- 1 patel2n1 temp  1859 Apr 23 12:59 npuserin.c
+-rw-r--r-- 1 patel2n1 temp  9832 Apr 23 12:59 npruncommand.c
+-rw-r--r-- 1 patel2n1 temp   712 Apr 23 12:58 npproc_line.c
+-rw-r--r-- 1 patel2n1 temp   282 Apr 23 12:58 npmain_smallsh.c
